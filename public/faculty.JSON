@@ -1,0 +1,146 @@
+[
+  {
+    "id": 110001,
+    "name": "Mohammad Asaduzzaman Khan",
+    "img": "https://i.ibb.co/rsLL6bP/hod.jpg",
+    "designation": "Associate Professor",
+    "email": "mak@baiust.edu.bd",
+    "subject": 3
+  },
+  {
+    "id": 110002,
+    "name": "Md. Robaitul Islam Bhuiyan",
+    "img": "https://i.ibb.co/89P34vQ/rubayet.jpg",
+    "designation": "Lecturer",
+    "email": "robayet@baiust.edu.bd",
+    "subject": 5
+  },
+  {
+    "id": 110003,
+    "name": "Musfiqur Rahman Milton",
+    "img": "https://i.ibb.co/qyTccc0/mr-milton.jpg",
+    "designation": "Lecturer",
+    "email": "musfiqur@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 110004,
+    "name": "Dr. Nargis Parvin",
+    "img": "https://i.ibb.co/YfT17K9/miss-nargis-parvin-65192.jpg",
+    "designation": "Assistant Professor",
+    "email": "nargis@baiust.edu.bd",
+    "subject": 3
+  },
+  {
+    "id": 110005,
+    "name": "Sabina Zaman",
+    "img": "https://i.ibb.co/c2LGfGx/sabina-zaman.jpg",
+    "designation": "Lecturer",
+    "email": "sabina@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 110006,
+    "name": "Mamun Ahmed",
+    "img": "https://i.ibb.co/DWhHZbq/mamun.jpg",
+    "designation": "Assistant Professor",
+    "email": "mamun@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 110007,
+    "name": "Sharmin Sultana",
+    "img": "https://i.ibb.co/fCQt8tH/anu.jpg",
+    "designation": "Lecturer",
+    "email": "sultana@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 110008,
+    "name": "Shahed Khan",
+    "img": "https://i.ibb.co/2SgSns9/shahed-khan.jpg",
+    "designation": "Lecturer",
+    "email": "shahed@baiust.edu.bd",
+    "subject": 5
+  },
+  {
+    "id": 110009,
+    "name": "Arifa Islam Champa",
+    "img": "https://i.ibb.co/mDmr91c/champa.jpg",
+    "designation": "Lecturer",
+    "email": "arifa.islam@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 1100010,
+    "name": "Md. Fazle Rabbi",
+    "img": "https://i.ibb.co/Gd1M7Tt/fazlerabbi.jpg",
+    "designation": "Lecturer",
+    "email": "fazle@baiust.edu.bd",
+    "subject": 2
+  },
+  {
+    "id": 1100011,
+    "name": "Md. Rifat Hossain",
+    "img": "https://i.ibb.co/C2L93wW/rifat.jpg",
+    "designation": "Lecturer",
+    "email": "rifat@baiust.edu.bd",
+    "subject": 6
+  },
+  {
+    "id": 1100012,
+    "name": "Ahmed Arian Sajid",
+    "img": "https://i.ibb.co/98tdtjF/ahmed-arian-sajid.jpg",
+    "designation": "Lecturer",
+    "email": "arian@baiust.edu.bd",
+    "subject": 5
+  },
+  {
+    "id": 1100013,
+    "name": "Sabrina Sultana Jerin",
+    "img": "https://i.ibb.co/0QFG9XW/jerin.jpg",
+    "designation": "Lecturer",
+    "email": "sabrina@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 1100014,
+    "name": "Shimu Sultana",
+    "img": "https://i.ibb.co/80SpMWd/shimu.jpg",
+    "designation": "Lecturer",
+    "email": "shimu@baiust.edu.bd",
+    "subject": 5
+  },
+  {
+    "id": 1100015,
+    "name": "Shovan Bhowmik",
+    "img": "https://i.ibb.co/DpX0CdS/shumon.jpg",
+    "designation": "Lecturer",
+    "email": "shovan@baiust.edu.bd",
+    "subject": 5
+  },
+  {
+    "id": 1100016,
+    "name": "Mousumi Hasan Mukti",
+    "img": "https://i.ibb.co/Kmmfv5M/moushumi.jpg",
+    "designation": "Assistant Professor",
+    "email": "mousumi.h@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 1100017,
+    "name": "Saha Reno",
+    "img": "https://i.ibb.co/9c7K5k2/reno.png",
+    "designation": "Lecturer",
+    "email": "saha.reno@baiust.edu.bd",
+    "subject": 4
+  },
+  {
+    "id": 1100018,
+    "name": "Mysha Nishat Bidhu",
+    "img": "https://i.ibb.co/1ZB4z5D/bidhu.png",
+    "designation": "Lecturer",
+    "email": "bidhu.mysha@gmail.com",
+    "subject": 5
+  }
+]

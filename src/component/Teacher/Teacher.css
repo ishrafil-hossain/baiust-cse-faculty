@@ -1,0 +1,39 @@
+.teacher{
+    border: 1px solid green;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(191, 219, 191);
+    box-shadow: 4px 4px 2px #aaaaaa;   
+}
+.teacher:hover{
+    box-shadow: 10px 10px 5px #aaaaaa;
+    background-color: rgb(163, 219, 163);
+}
+.teacher img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.teacher-info{
+    text-align: left;
+}
+.teacher-email{
+    color: rgb(58, 12, 58);
+}
+.btn-regular{
+    width: 200px;
+    height: 40px;
+    margin: 5px;
+    padding:5px;
+    color: white;
+    font-size: 20px;
+    border: 1px solid rgb(154, 206, 154);
+    background-color: blue;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+}
+.btn-regular:hover{
+    background-color:  #226424;
+    box-shadow: 2px 2px 5px green;
+}

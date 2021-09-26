@@ -1,0 +1,16 @@
+.teacher-cart{
+    position: sticky;
+    top: 0;
+   
+}
+.cart-table{
+    background-color: rgb(192, 189, 189);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #443f3f;
+}
+.teacher-added{
+    text-align: left;
+    margin-left: 10px;
+}

@@ -1,0 +1,16 @@
+.faculty-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.cart-container{
+    border-right: 1px solid gray;
+}
+
+.teacher-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}

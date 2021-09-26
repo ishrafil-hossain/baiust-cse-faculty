@@ -1,0 +1,17 @@
+.teacher-name-container{
+    display: flex;
+    margin: 10px;
+    background-color: rgb(74, 187, 172);
+    border-radius: 10px;
+    box-shadow: 2px 2px green;
+}
+
+.teacher-name-container img{
+    width: 50px;
+    height: 50;
+    margin: 10px;
+    padding: 10px;
+}
+.teacher-name-container h3{
+    padding-top: 25px;
+}
