@@ -1,3 +1,4 @@
+/* teacher card design  */
 .teacher{
     border: 1px solid green;
     border-radius: 10px;
@@ -6,10 +7,12 @@
     background-color: rgb(191, 219, 191);
     box-shadow: 4px 4px 2px #aaaaaa;   
 }
+/* hover effect  */
 .teacher:hover{
     box-shadow: 10px 10px 5px #aaaaaa;
     background-color: rgb(163, 219, 163);
 }
+/* image size setup  */
 .teacher img{
     width: 200px;
     height: 200px;
@@ -21,6 +24,7 @@
 .teacher-email{
     color: rgb(58, 12, 58);
 }
+/* button design  */
 .btn-regular{
     width: 200px;
     height: 40px;

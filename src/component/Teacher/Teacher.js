@@ -1,12 +1,13 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faGraduationCap } from '@fortawesome/free-solid-svg-icons'
+import {faGraduationCap } from '@fortawesome/free-solid-svg-icons'
 import './Teacher.css';
 
 const Teacher = (props) => {
-    // console.log(props.teacher.id)
+    // using destructuring 
     const { id, img, name, designation, email, subject } = props.teacher;
 
+    // font-awesome icon 
     const icon = <FontAwesomeIcon icon={faGraduationCap} />
 
     return (
@@ -21,6 +22,7 @@ const Teacher = (props) => {
                 <h4>E-mail : <span className = "teacher-email"> {email}</span></h4>
                 <h4>Subject : {subject}</h4>
             </div>
+            {/* adding a button for all teacher  */}
             <div>
                 <button onClick={() => props.buttonHandler(props.teacher)} className="btn-regular">{icon}  add to card </button>
             </div>

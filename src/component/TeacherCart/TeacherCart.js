@@ -3,8 +3,10 @@ import TeacherName from '../TeacherName/TeacherName';
 import './TeacherCart.css'
 
 const TeacherCart = (props) => {
+    // using destructuring 
     const { teacherCart } = props
 
+    // calculate total subject 
     let totalSub = 0;
     for (const subject of teacherCart) {
         totalSub = totalSub + subject.subject;
